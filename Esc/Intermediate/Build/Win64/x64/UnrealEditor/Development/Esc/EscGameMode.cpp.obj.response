@@ -1,18 +1,16 @@
-C:\UnrealProjects\Esc\Source\Esc\EscGameMode.cpp
+C:\UnrealProjects\Unreal_Test03\Esc\Source\Esc\EscGameMode.cpp
 /I .
-/I C:\UnrealProjects\Esc\Intermediate\Build\Win64\UnrealEditor\Inc\Esc\UHT
-/I C:\UnrealProjects\Esc\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
@@ -274,6 +272,8 @@ C:\UnrealProjects\Esc\Source\Esc\EscGameMode.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
+/I C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\UnrealEditor\Inc\Esc\UHT
+/I C:\UnrealProjects\Unreal_Test03\Esc\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh\UHT
@@ -290,12 +290,12 @@ C:\UnrealProjects\Esc\Source\Esc\EscGameMode.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\Definitions.Esc.h"
-/Yu"C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\EscGameMode.cpp.obj"
-/sourceDependencies C:\UnrealProjects\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\EscGameMode.cpp.dep.json
+/FI"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\Definitions.Esc.h"
+/Yu"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\EscGameMode.cpp.obj"
+/sourceDependencies C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\EscGameMode.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

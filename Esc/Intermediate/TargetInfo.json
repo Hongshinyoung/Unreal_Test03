@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Esc",
-			"Path": "C:\\UnrealProjects\\Esc\\Source\\Esc.Target.cs",
+			"Path": "C:\\UnrealProjects\\Unreal_Test03\\Esc\\Source\\Esc.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "EscEditor",
-			"Path": "C:\\UnrealProjects\\Esc\\Source\\EscEditor.Target.cs",
+			"Path": "C:\\UnrealProjects\\Unreal_Test03\\Esc\\Source\\EscEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
