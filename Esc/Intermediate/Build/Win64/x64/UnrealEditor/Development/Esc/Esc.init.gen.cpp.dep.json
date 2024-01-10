@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\esc\\intermediate\\build\\win64\\unrealeditor\\inc\\esc\\uht\\esc.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\esc\\intermediate\\build\\win64\\x64\\esceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\esc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\esc\\definitions.esc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProjects\\Esc\\Source\\Esc\\Esc.Build.cs",
+		"C:\\UnrealProjects\\Esc\\Source\\Esc.Target.cs",
+		"C:\\UnrealProjects\\Esc\\Source\\EscEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
