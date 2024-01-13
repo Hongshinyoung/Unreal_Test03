@@ -4,10 +4,10 @@
   Cleaning EscEditor binaries...
   Unhandled exception: System.AggregateException: One or more errors occurred. (Unable to delete C:\UnrealProjects\Unreal_Test03\Esc\Binaries\Win64\UnrealEditor-Esc.dll (Unable to delete C:\UnrealProjects\Unreal_Test03\Esc\Binaries\Win64\UnrealEditor-Esc.dll - 액세스가 거부되었습니다.
   Processes with open handles to file:
-    2804: C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe (started 01/10/2024 15:25:50)))
+    10608: C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe (started 01/12/2024 14:47:22)))
    ---> Unable to delete C:\UnrealProjects\Unreal_Test03\Esc\Binaries\Win64\UnrealEditor-Esc.dll (Unable to delete C:\UnrealProjects\Unreal_Test03\Esc\Binaries\Win64\UnrealEditor-Esc.dll - 액세스가 거부되었습니다.
   Processes with open handles to file:
-    2804: C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe (started 01/10/2024 15:25:50))
+    10608: C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe (started 01/12/2024 14:47:22))
      --- End of inner exception stack trace ---
      at System.Threading.Tasks.TaskReplicator.Run[TState](ReplicatableUserAction`1 action, ParallelOptions options, Boolean stopOnFirstFailure)
      at System.Threading.Tasks.Parallel.PartitionerForEachWorker[TSource,TLocal](Partitioner`1 source, ParallelOptions parallelOptions, Action`1 simpleBody, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)

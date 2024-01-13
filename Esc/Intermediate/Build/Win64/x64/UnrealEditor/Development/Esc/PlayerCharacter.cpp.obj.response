@@ -290,10 +290,7 @@ C:\UnrealProjects\Unreal_Test03\Esc\Source\Esc\PlayerCharacter.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\Definitions.Esc.h"
-/Yu"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\EscEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/FI"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\Definitions.h"
 /Fo"C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\PlayerCharacter.cpp.obj"
 /sourceDependencies C:\UnrealProjects\Unreal_Test03\Esc\Intermediate\Build\Win64\x64\UnrealEditor\Development\Esc\PlayerCharacter.cpp.dep.json
 /Zc:inline

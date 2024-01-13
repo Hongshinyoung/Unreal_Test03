@@ -66,6 +66,12 @@
     <ClInclude Include="..\..\Source\Esc\EscGameMode.h">
       <Filter>Source\Esc</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Esc\MovingActor.cpp">
+      <Filter>Source\Esc</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Esc\MovingActor.h">
+      <Filter>Source\Esc</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Esc\MyGameModeBase.cpp">
       <Filter>Source\Esc</Filter>
     </ClCompile>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\unreal_test03\\esc\\intermediate\\build\\win64\\unrealeditor\\inc\\esc\\uht\\movingactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\unreal_test03\\esc\\intermediate\\build\\win64\\x64\\esceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\unreal_test03\\esc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\esc\\definitions.esc.h",
+            "c:\\unrealprojects\\unreal_test03\\esc\\source\\esc\\movingactor.h",
+            "c:\\unrealprojects\\unreal_test03\\esc\\intermediate\\build\\win64\\unrealeditor\\inc\\esc\\uht\\movingactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
